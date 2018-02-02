@@ -1,0 +1,1 @@
+function javacalljs(){document.getElementById("content").innerHTML +="<br\>Android里的java方法调用了js方法（无参）";}function javacalljswithargs(arg){document.getElementById("content").innerHTML +=("<br\>"+arg);}
